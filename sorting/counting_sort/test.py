@@ -1,5 +1,5 @@
 '''
-Unit test for counting sort.
+Unit testing for counting sort.
 '''
 
 
